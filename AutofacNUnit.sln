@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacNUnitTest", "AutofacNUnitTest\AutofacNUnitTest.csproj", "{8E2D76E6-7947-4FD4-8EA8-5111B8CCC2B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacNUnitLib", "AutofacNUnitLib\AutofacNUnitLib.csproj", "{6242AEF0-6ABE-4120-A1EB-D74EF4D5EA82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E2D76E6-7947-4FD4-8EA8-5111B8CCC2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2D76E6-7947-4FD4-8EA8-5111B8CCC2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2D76E6-7947-4FD4-8EA8-5111B8CCC2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2D76E6-7947-4FD4-8EA8-5111B8CCC2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6242AEF0-6ABE-4120-A1EB-D74EF4D5EA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6242AEF0-6ABE-4120-A1EB-D74EF4D5EA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6242AEF0-6ABE-4120-A1EB-D74EF4D5EA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6242AEF0-6ABE-4120-A1EB-D74EF4D5EA82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
